@@ -1,0 +1,128 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+.textcontact-title {
+	margin: 0;
+	padding: 0;
+	font-weight: 700;
+}
+
+.textcontact {
+	color: #333;
+	font-size: 16px;
+	/* letter-spacing: 1px; */
+}
+
+.address-icon {
+	padding: 0;
+	padding-top: 5px;
+}
+
+.d-flex{display: flex;
+justify-content: center;
+}
+.megamenu .nav, .megamenu .collapse, .megamenu .dropup, .megamenu .dropdown {
+	position: relative;
+}
+
+.post-media {
+	position: relative;
+	max-height: 328px;
+	overflow: hidden;
+	border-radius: 5px;
+}
+
+/*Social Media 10-05-2022 Start Here*/
+/* fixed social*/
+#fixed-social {
+    position: fixed;
+    top: 40%;
+    z-index: 9999;
+    right: 0px;
+}
+
+#fixed-social a {
+    color: #fff;
+    display: block;
+    height: 40px;
+    position: relative;
+    text-align: center;
+    /*line-height: 40px;*/
+    line-height: 0px;
+    /*padding:15px;*/
+    width: 40px;
+    margin-bottom: 1px;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#fixed-social a:hover>span{
+    visibility: visible;
+    left: 41px;
+    opacity: 1;
+} 
+#fixed-social a span {
+	line-height: 40px;
+    left: 60px;
+    position: absolute;
+    text-align: center;
+    width: 120px;
+    visibility: hidden;
+    transition-duration: 0.5s;
+    z-index: 1;
+    opacity: 0;
+}
+ .fixed-whatsapp{
+ 	background-color: #25d366;
+ }
+ .fixed-whatsapp span{
+	background-color: #25d366;
+ }
+ 
+ .fixed-facebook{
+ 	background-color: #4867aa;
+ }
+ .fixed-facebook span{
+	background-color: #4867aa;
+ }
+ .fixed-twitter{
+	background-color: #7D3895;
+
+ }
+ .fixed-twitter span{
+ 	background-color: #7D3895;
+ }
+ .fixed-gplus{
+	background-color: #00AF54;
+
+ }
+ .fixed-gplus span{
+ 	background-color: #00AF54;
+ }
+ .fixed-linkedin{
+	background-color: #0077b5;
+
+ }
+ .fixed-linkedin span{
+ 	background-color: #0077b5;
+ }
+ .fixed-instagrem{
+	background-color: #cf3c8c;
+
+ }
+ .fixed-instagrem span{
+ 	background-color: #cf3c8c;
+ }
+ .fixed-tumblr{
+	background-color: #EB1471;
+
+ }
+ .fixed-tumblr span{
+ 	background-color: #EB1471;
+ }
+/*end fixed social*/
+
+.whats-app-btn{
+    display:none;
+}
+/*Social Media 10-05-2022 Stop here*/

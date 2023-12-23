@@ -1,0 +1,11 @@
+[17-May-2022 10:31:24 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/solicitous/public_html/candisource2/index.php on line 616
+[17-May-2022 11:31:54 UTC] PHP Parse error:  syntax error, unexpected '');?>' (T_ENCAPSED_AND_WHITESPACE) in /home/solicitous/public_html/candisource2/about-us.php on line 362
+[17-May-2022 11:32:20 UTC] PHP Parse error:  syntax error, unexpected '');?>' (T_ENCAPSED_AND_WHITESPACE) in /home/solicitous/public_html/candisource2/about-us.php on line 362
+[17-May-2022 11:32:35 UTC] PHP Parse error:  syntax error, unexpected '');?>' (T_ENCAPSED_AND_WHITESPACE) in /home/solicitous/public_html/candisource2/about-us.php on line 362
+[17-May-2022 11:32:46 UTC] PHP Parse error:  syntax error, unexpected '');?>' (T_ENCAPSED_AND_WHITESPACE) in /home/solicitous/public_html/candisource2/about-us.php on line 362
+[17-May-2022 11:33:07 UTC] PHP Parse error:  syntax error, unexpected '');?>' (T_ENCAPSED_AND_WHITESPACE) in /home/solicitous/public_html/candisource2/about-us.php on line 362
+[17-May-2022 11:33:44 UTC] PHP Parse error:  syntax error, unexpected '');?>' (T_ENCAPSED_AND_WHITESPACE) in /home/solicitous/public_html/candisource2/about-us.php on line 362
+[18-May-2022 10:31:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/solicitous/public_html/candisource2/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/candisource2/index.php on line 18
